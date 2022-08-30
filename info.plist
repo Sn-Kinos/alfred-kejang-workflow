@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>kr.co.kinos.kejangcon</string>
+	<key>category</key>
+	<string>Internet</string>
+	<key>connections</key>
+	<dict>
+		<key>D6019B4F-9F99-4B7A-9DDF-F0B379B0E9EC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A9EA315F-8202-44F9-AF34-2C39B7971BFD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Yoo Dongryul (Kinos)</string>
+	<key>description</key>
+	<string>Show index of KakaoTalk Kejang emoticon</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Kejang Emoticon Finder</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A9EA315F-8202-44F9-AF34-2C39B7971BFD</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>keyword</key>
+				<string>kj</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Loading . . .</string>
+				<key>script</key>
+				<string>python3 main.py {query}</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Enter the keyword included in the emoticon you want to search for.</string>
+				<key>title</key>
+				<string>Kejang Emoticon Search</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>D6019B4F-9F99-4B7A-9DDF-F0B379B0E9EC</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string># Kejang Emoticon Finder
+
+Find index of KakaoTalk Kejang emoticon that you want!
+
+Source: https://kimkero.tistory.com/2162
+
+3.14.0
+- Python version upgrade (Python 2 -&gt; Python 3)
+
+2.14.0
+- Rebirth inside workflow works.
+
+1.14.0
+- Added Kejang-con 14
+
+1.0.0
+- Functional Test Complete</string>
+	<key>uidata</key>
+	<dict>
+		<key>A9EA315F-8202-44F9-AF34-2C39B7971BFD</key>
+		<dict>
+			<key>xpos</key>
+			<integer>260</integer>
+			<key>ypos</key>
+			<integer>65</integer>
+		</dict>
+		<key>D6019B4F-9F99-4B7A-9DDF-F0B379B0E9EC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>55</integer>
+			<key>ypos</key>
+			<integer>65</integer>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>3.14.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/Sn-Kinos</string>
+</dict>
+</plist>
