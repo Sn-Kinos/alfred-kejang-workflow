@@ -2,7 +2,7 @@
 
 <img width="746" alt="image" src="https://user-images.githubusercontent.com/26380261/187373246-2f606ab6-5071-4069-8c75-28a1de455c4c.png">
 
-그거 저희톡에도 336개 정도 있는 케장콘의 10SSAP스피리추알함을 Alfred와함께 당신의 카톡활동을 Kejang emoticon finder 가 도움 니다.
+그거 저희톡에도 360개 정도 있는 케장콘의 10SSAP스피리추알함을 Alfred와함께 당신의 카톡활동을 Kejang emoticon finder 가 도움 니다.
 
 ## Installation
 [Releases](https://github.com/Sn-Kinos/alfred-kejang-workflow/releases) 에<br>서 채신 바-죤<br>을 다운받으세<br>요
