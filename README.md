@@ -7,6 +7,11 @@
 ## Installation
 [Releases](https://github.com/Sn-Kinos/alfred-kejang-workflow/releases) 에<br>서 채신 바-죤<br>을 다운받으세<br>요
 
+### 바-죤 보 는법
+```
+(큰-변경).(최대로-지원하는-콘-바죤).(작은-변경)
+```
+
 ## Usage
 
 상단 찎은스샷에서 보실<br>수있는 겄처럼<br>`kj <검색할 문자열>`<br>을 입력해서 원<br>하는 콘의 위치<br>를 확인할 수 읻<br>습니다
