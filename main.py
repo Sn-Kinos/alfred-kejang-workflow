@@ -389,7 +389,31 @@ qurare = [
     {'title': '케장콘 16', 'subtitle': '그래도된는건가염', 'arg': '16'},
     {'title': '케장콘 16', 'subtitle': '그럴수도있지', 'arg': '16'},
     {'title': '케장콘 16', 'subtitle': '오해에요 저 잘합니다', 'arg': '16'},
-    {'title': '케장콘 16', 'subtitle': '이럴수가 만화는 현실이 아니라니', 'arg': '16'}
+    {'title': '케장콘 16', 'subtitle': '이럴수가 만화는 현실이 아니라니', 'arg': '16'},
+    {'title': '케장콘 17', 'subtitle': '예~스 (몸 흔들며)', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '예쓰!!!!!!!!!!!!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '노 (고개저으며)', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '노!!!!!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '하기싫어서요', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '하기싫다고!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '네 안하겠습니다', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '왜안하냐고!!!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '몰라서요', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '몰랐다고!!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '식사중이에요', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '밥먹는다고!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '어떻게하나요', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '어떻게하냐고!!!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '부탁드립니다', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '제발!!!!!!!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '괜찮습니다', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '괜찮다고!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '주세요', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '내놔!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '잘했어요', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '잘했다고!!!!!!!', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '지금', 'arg': '17'},
+    {'title': '케장콘 17', 'subtitle': '골든정답', 'arg': '17'}
 ]
 
 if __name__ == '__main__':
